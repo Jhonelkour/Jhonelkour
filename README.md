@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oussama EL-KOURDINI (@Jhonelkour)  
 
-I'm a **Data Analyst** passionate about turning raw data into meaningful insights. With a background in **Banking and Finance**, I bring a strong analytical mindset to solving real-world problems.  
+I'm a **Data Analyst** passionate about turning raw data into meaningful insights. With a background in **Banking and Finance**.  
 
 ## 👀 Interests  
 - 📊 Data Analytics & Business Intelligence  
